@@ -1,11 +1,13 @@
 {
   "name": "eslint-plugin-relative-path-fsd-checker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Enforce correct usage of relative paths in FSD directory structure",
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin", 
+    "fsd",
+    "relative path checker"
   ],
   "author": "mvodyanov",
   "main": "./lib/index.js",

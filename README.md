@@ -46,3 +46,5 @@ Feature-Sliced Design (FSD) is an architectural methodology for scaffolding fron
 
 
 
+## Github 
+[https://github.com/mvodyanov/eslint-plugin-relative-path-fsd-checker][https://github.com/mvodyanov/eslint-plugin-relative-path-fsd-checker]
